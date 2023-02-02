@@ -496,14 +496,6 @@ copy-logo{
     margin: 0.2rem;
 }
 
-@media only screen and (min-width : 901px) {
-   
-    
-
-
-
-}
-
 @media only screen and (max-width : 900px) {
 
     header{
@@ -672,8 +664,6 @@ copy-logo{
     .copy-logo img{
         display: flex;
         margin: 1rem auto;
-        
-        
     }
 
     }
